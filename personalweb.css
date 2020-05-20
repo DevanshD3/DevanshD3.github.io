@@ -2,7 +2,7 @@ body {
 	background-color: black;
 }
 .text {
-	position: absolute;
+	position: relative;
 	top: 38%;
 	left: 0%;
 	/* background-color: black; */
